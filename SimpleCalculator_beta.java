@@ -70,6 +70,8 @@ public class SimpleCalculator
         else if(division == true)
             division(firstNumber, secondNumber); 
         else if(power == true)
+
+        
             power(firstNumber, secondNumber); 
         else if(remainder == true)
             remainder(firstNumber, secondNumber); 
